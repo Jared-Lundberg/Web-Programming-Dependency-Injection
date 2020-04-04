@@ -1,0 +1,32 @@
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/bin/Debug/netcoreapp2.2/DependencyInjection.deps.json
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/bin/Debug/netcoreapp2.2/DependencyInjection.runtimeconfig.json
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/bin/Debug/netcoreapp2.2/DependencyInjection.runtimeconfig.dev.json
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/bin/Debug/netcoreapp2.2/DependencyInjection.dll
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/bin/Debug/netcoreapp2.2/DependencyInjection.pdb
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.csprojAssemblyReference.cache
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.RazorAssemblyInfo.cache
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.RazorAssemblyInfo.cs
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.AssemblyInfoInputs.cache
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.AssemblyInfo.cs
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.RazorTargetAssemblyInfo.cache
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.dll
+/Users/Jared/Web Programming/Web-Programming-FA2019/Assignments/Assignment06_DependencyInjection/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.pdb
+/Users/Jared/Downloads/DependencyInjection/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/Jared/Downloads/DependencyInjection/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/Jared/Downloads/DependencyInjection/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/Jared/Downloads/DependencyInjection/bin/Debug/netcoreapp2.2/DependencyInjection.deps.json
+/Users/Jared/Downloads/DependencyInjection/bin/Debug/netcoreapp2.2/DependencyInjection.runtimeconfig.json
+/Users/Jared/Downloads/DependencyInjection/bin/Debug/netcoreapp2.2/DependencyInjection.runtimeconfig.dev.json
+/Users/Jared/Downloads/DependencyInjection/bin/Debug/netcoreapp2.2/DependencyInjection.dll
+/Users/Jared/Downloads/DependencyInjection/bin/Debug/netcoreapp2.2/DependencyInjection.pdb
+/Users/Jared/Downloads/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.csprojAssemblyReference.cache
+/Users/Jared/Downloads/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.RazorAssemblyInfo.cache
+/Users/Jared/Downloads/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.RazorAssemblyInfo.cs
+/Users/Jared/Downloads/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.AssemblyInfoInputs.cache
+/Users/Jared/Downloads/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.AssemblyInfo.cs
+/Users/Jared/Downloads/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.RazorTargetAssemblyInfo.cache
+/Users/Jared/Downloads/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.dll
+/Users/Jared/Downloads/DependencyInjection/obj/Debug/netcoreapp2.2/DependencyInjection.pdb
